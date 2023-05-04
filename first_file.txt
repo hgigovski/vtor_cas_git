@@ -1,1 +1,2 @@
 nasiot prv fajl
+NAPRAVENA PROMENA VO first_file.txt
